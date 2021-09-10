@@ -6,22 +6,22 @@ Welcome to the POST APP,
 Here User can create a post and comment on it, this project supports nested comments. 
 
 ## Technologies used:-
--1. react.js
--2. Material UI (styling and icons)
--3. redux.js 
--4. axios.js 
--5. thunk.js
--6. React router DOM
+- react.js
+- Material UI (styling and icons)
+- redux.js 
+- axios.js 
+- thunk.js
+- React router DOM
 
 ## Steps to follow 
--Step 1: Clone the project if you haven't already
--Step 2: Use `git checkout master` to switch to master branch in case you are not on `master` branch
--Step 3: Always use `git pull` to get the latest project files before starting
--Step 4: go to directory `~/post-app`
--Step 5: run command `npm install` 
--Step 6: make sure the above command is successful
--Step 7: run command `npm start` to start the Application 
--Step 8: server will run on localhost://3000
+- Clone the project if you haven't already
+- Use `git checkout master` to switch to master branch in case you are not on `master` branch
+- Always use `git pull` to get the latest project files before starting
+- go to directory `~/post-app`
+- run command `npm install` 
+- make sure the above command is successful
+- run command `npm start` to start the Application 
+- server will run on localhost://3000
 
 
 # Getting Started with Create React App
